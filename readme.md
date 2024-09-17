@@ -10,7 +10,7 @@
 
 [API3 Deployed Contract Addresses](https://github.com/api3dao/contracts/blob/main/deployments/addresses.json) 
 
-[OEV Playground](https://hiletmis.github.io/playgroev/)
+[OEV Playground](https://playground.api3.org/)
 
 [Price Feed Comparison Dashboard](https://centurion.web.app/)
 
