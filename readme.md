@@ -4,11 +4,13 @@
 
 [Bridge to OEV network](https://oev-network.bridge.caldera.xyz/) 
 
-[MMulticall tutorial](https://github.com/api3-ecosystem/multicallexample?tab=readme-ov-file) 
+[Multicall tutorial](https://github.com/api3-ecosystem/multicallexample?tab=readme-ov-file) 
 
 [Multicall Video Breakdown](https://x.com/billyjitsu_/status/1787953683063521363) 
 
-[API3 Deployed Contract Addresses](https://github.com/api3dao/contracts/blob/main/deployments/addresses.json) 
+[API3 Deployed Contract Addresses](https://github.com/api3dao/contracts/blob/main/deployments/addresses.json)
+
+[OEV AuctionHouse Interface](https://github.com/api3dao/contracts/blob/5b2ebb78bdf1fb04af0e8d479c43b676b5f72fc6/contracts/api3-server-v1/interfaces/IOevAuctionHouse.sol#L4)
 
 [OEV Playground](https://playground.api3.org/)
 
